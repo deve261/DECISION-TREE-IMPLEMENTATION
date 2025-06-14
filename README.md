@@ -52,7 +52,10 @@ This project is ideal for educational environments, particularly for teaching st
 
 By combining automation with interactivity, this tool empowers users to build robust machine learning models while maintaining full control over data inputs and parameters through a user-friendly interface. It bridges the gap between data science and usability, making machine learning more accessible and comprehensible to a wider audience.
 
-#OUTPUT :
+#OUTPUT : 
+
+![Image](https://github.com/user-attachments/assets/59f85851-446e-440f-b6ea-36c628b9de38)
+![Image](https://github.com/user-attachments/assets/a63e0bbf-3630-4484-a4e9-c38bcffeca48)
 
 
 
